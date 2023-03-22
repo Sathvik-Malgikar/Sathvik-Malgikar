@@ -1,2 +1,2 @@
-<img src="name.gif" alt = "*insert dino gif here*">
+<img src="hello.gif" alt = "*insert hello gif here*">
 </img>
